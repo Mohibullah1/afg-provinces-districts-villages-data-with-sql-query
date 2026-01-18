@@ -1,0 +1,1172 @@
+[
+  {
+    "id": 89,
+    "district_english_name": "Achin",
+    "district_local_name": "اچین",
+    "province_fk_id": 8
+  },
+  {
+    "id": 90,
+    "district_english_name": "Nazyan",
+    "district_local_name": "نازیان",
+    "province_fk_id": 8
+  },
+  {
+    "id": 91,
+    "district_english_name": "Dur Baba",
+    "district_local_name": "دربابا",
+    "province_fk_id": 8
+  },
+  {
+    "id": 92,
+    "district_english_name": "Shinwar",
+    "district_local_name": "شینوار",
+    "province_fk_id": 8
+  },
+  {
+    "id": 93,
+    "district_english_name": "Muhmand Dara",
+    "district_local_name": "مهمند دره",
+    "province_fk_id": 8
+  },
+  {
+    "id": 94,
+    "district_english_name": "Lal Pur",
+    "district_local_name": "لعل پور",
+    "province_fk_id": 8
+  },
+  {
+    "id": 95,
+    "district_english_name": "Goshta",
+    "district_local_name": "گشته",
+    "province_fk_id": 8
+  },
+  {
+    "id": 96,
+    "district_english_name": "Bati Kot",
+    "district_local_name": "بتی کوت",
+    "province_fk_id": 8
+  },
+  {
+    "id": 97,
+    "district_english_name": "Kama",
+    "district_local_name": "کامه",
+    "province_fk_id": 8
+  },
+  {
+    "id": 98,
+    "district_english_name": "Kuz Kunar",
+    "district_local_name": "خاص کنر",
+    "province_fk_id": 8
+  },
+  {
+    "id": 99,
+    "district_english_name": "Dara-I-Nur",
+    "district_local_name": "دره نور",
+    "province_fk_id": 8
+  },
+  {
+    "id": 100,
+    "district_english_name": "Bihsud",
+    "district_local_name": "بهسود",
+    "province_fk_id": 8
+  },
+  {
+    "id": 101,
+    "district_english_name": "Kot",
+    "district_local_name": "کوت",
+    "province_fk_id": 8
+  },
+  {
+    "id": 102,
+    "district_english_name": "Mihtarlam",
+    "district_local_name": "مرکز لغمان - مهترلام",
+    "province_fk_id": 9
+  },
+  {
+    "id": 103,
+    "district_english_name": "Qarghayi",
+    "district_local_name": "قرغه ئی",
+    "province_fk_id": 9
+  },
+  {
+    "id": 104,
+    "district_english_name": "Alingar",
+    "district_local_name": "علینگار",
+    "province_fk_id": 9
+  },
+  {
+    "id": 105,
+    "district_english_name": "Dawlat Shah",
+    "district_local_name": "دولت شاه",
+    "province_fk_id": 9
+  },
+  {
+    "id": 106,
+    "district_english_name": "Alishing",
+    "district_local_name": "علیشنگ",
+    "province_fk_id": 9
+  },
+  {
+    "id": 107,
+    "district_english_name": "BaadBukh",
+    "district_local_name": "بادپخ",
+    "province_fk_id": 9
+  },
+  {
+    "id": 108,
+    "district_english_name": "Asadabad",
+    "district_local_name": "مرکزکنرها- اسد آباد",
+    "province_fk_id": 10
+  },
+  {
+    "id": 1,
+    "district_english_name": "Kabul",
+    "district_local_name": "مرکز کابل",
+    "province_fk_id": 1
+  },
+  {
+    "id": 2,
+    "district_english_name": "Dih Sabz",
+    "district_local_name": "ده سبز",
+    "province_fk_id": 1
+  },
+  {
+    "id": 3,
+    "district_english_name": "Mir Bacha Kot",
+    "district_local_name": "میر بچه کوت",
+    "province_fk_id": 1
+  },
+  {
+    "id": 4,
+    "district_english_name": "Qarabagh",
+    "district_local_name": "قره باغ",
+    "province_fk_id": 1
+  },
+  {
+    "id": 5,
+    "district_english_name": "Istalif",
+    "district_local_name": "استالف",
+    "province_fk_id": 1
+  },
+  {
+    "id": 6,
+    "district_english_name": "Shakardara",
+    "district_local_name": "شکر دره",
+    "province_fk_id": 1
+  },
+  {
+    "id": 7,
+    "district_english_name": "Paghman",
+    "district_local_name": "پغمان",
+    "province_fk_id": 1
+  },
+  {
+    "id": 8,
+    "district_english_name": "Chahar Asyab",
+    "district_local_name": "چهار آسیاب",
+    "province_fk_id": 1
+  },
+  {
+    "id": 9,
+    "district_english_name": "Bagrami",
+    "district_local_name": "بگرامی",
+    "province_fk_id": 1
+  },
+  {
+    "id": 10,
+    "district_english_name": "Khaki Jabbar",
+    "district_local_name": "خاک جبار",
+    "province_fk_id": 1
+  },
+  {
+    "id": 11,
+    "district_english_name": "Surobi",
+    "district_local_name": "سروبی",
+    "province_fk_id": 1
+  },
+  {
+    "id": 12,
+    "district_english_name": "Guldara",
+    "district_local_name": "گلدره",
+    "province_fk_id": 1
+  },
+  {
+    "id": 13,
+    "district_english_name": "Musayi",
+    "district_local_name": "موسهی",
+    "province_fk_id": 1
+  },
+  {
+    "id": 14,
+    "district_english_name": "Farza",
+    "district_local_name": "فرزه",
+    "province_fk_id": 1
+  },
+  {
+    "id": 15,
+    "district_english_name": "Mahmudi Raqi",
+    "district_local_name": "مرکز کاپیسا",
+    "province_fk_id": 2
+  },
+  {
+    "id": 16,
+    "district_english_name": "Surobi",
+    "district_local_name": "سروبی",
+    "province_fk_id": 1
+  },
+  {
+    "id": 77,
+    "district_english_name": "Jaji",
+    "district_local_name": "جاجی",
+    "province_fk_id": 7
+  },
+  {
+    "id": 78,
+    "district_english_name": "Mirzaka",
+    "district_local_name": "میرزکه",
+    "province_fk_id": 7
+  },
+  {
+    "id": 79,
+    "district_english_name": "Argoon",
+    "district_local_name": "ارگون",
+    "province_fk_id": 7
+  },
+  {
+    "id": 80,
+    "district_english_name": "Jalalabad",
+    "district_local_name": "مرکز ننگرهار- جلال آباد",
+    "province_fk_id": 8
+  },
+  {
+    "id": 81,
+    "district_english_name": "Surkh Rod",
+    "district_local_name": "سرخ رود",
+    "province_fk_id": 8
+  },
+  {
+    "id": 82,
+    "district_english_name": "Hisarak",
+    "district_local_name": "حصارک",
+    "province_fk_id": 8
+  },
+  {
+    "id": 83,
+    "district_english_name": "Sherzad",
+    "district_local_name": "شیرزاد",
+    "province_fk_id": 8
+  },
+  {
+    "id": 84,
+    "district_english_name": "Khogyani",
+    "district_local_name": "خوگیانی",
+    "province_fk_id": 8
+  },
+  {
+    "id": 85,
+    "district_english_name": "Chaparhar",
+    "district_local_name": "چپرهار",
+    "province_fk_id": 8
+  },
+  {
+    "id": 86,
+    "district_english_name": "Pachir Wa Agam",
+    "district_local_name": "پچیرواگام",
+    "province_fk_id": 8
+  },
+  {
+    "id": 87,
+    "district_english_name": "Dih Bala",
+    "district_local_name": "ده بالا",
+    "province_fk_id": 8
+  },
+  {
+    "id": 88,
+    "district_english_name": "Rodat",
+    "district_local_name": "رودات",
+    "province_fk_id": 8
+  },
+  {
+    "id": 109,
+    "district_english_name": "Marawara",
+    "district_local_name": "مروره",
+    "province_fk_id": 10
+  },
+  {
+    "id": 110,
+    "district_english_name": "Bar Kunar",
+    "district_local_name": "برکنر",
+    "province_fk_id": 10
+  },
+  {
+    "id": 111,
+    "district_english_name": "Dangam",
+    "district_local_name": "دانگام",
+    "province_fk_id": 10
+  },
+  {
+    "id": 112,
+    "district_english_name": "Nari",
+    "district_local_name": "نرئی",
+    "province_fk_id": 10
+  },
+  {
+    "id": 113,
+    "district_english_name": "Ghaziabad",
+    "district_local_name": "غازی آباد",
+    "province_fk_id": 10
+  },
+  {
+    "id": 114,
+    "district_english_name": "Shaygal wa shiltan",
+    "district_local_name": "شیگل و شلتن",
+    "province_fk_id": 10
+  },
+  {
+    "id": 115,
+    "district_english_name": "Wata Pur",
+    "district_local_name": "وته پور",
+    "province_fk_id": 10
+  },
+  {
+    "id": 116,
+    "district_english_name": "Chapa Dara",
+    "district_local_name": "چپه دره",
+    "province_fk_id": 10
+  },
+  {
+    "id": 117,
+    "district_english_name": "Dara-I-Pech",
+    "district_local_name": "دره پیچ",
+    "province_fk_id": 10
+  },
+  {
+    "id": 118,
+    "district_english_name": "Narang",
+    "district_local_name": "نرنگ",
+    "province_fk_id": 10
+  },
+  {
+    "id": 119,
+    "district_english_name": "Chawkay",
+    "district_local_name": "چوکی",
+    "province_fk_id": 10
+  },
+  {
+    "id": 120,
+    "district_english_name": "Nurgal",
+    "district_local_name": "نورگل",
+    "province_fk_id": 10
+  },
+  {
+    "id": 121,
+    "district_english_name": "Khas Kunar",
+    "district_local_name": "خاص کنر",
+    "province_fk_id": 10
+  },
+  {
+    "id": 122,
+    "district_english_name": "Sirkanay",
+    "district_local_name": "سرکانی",
+    "province_fk_id": 10
+  },
+  {
+    "id": 123,
+    "district_english_name": "Fayzabad",
+    "district_local_name": "مرکزبدخشان - فیض آباد",
+    "province_fk_id": 11
+  },
+  {
+    "id": 124,
+    "district_english_name": "Kishim",
+    "district_local_name": "کشم",
+    "province_fk_id": 11
+  },
+  {
+    "id": 125,
+    "district_english_name": "Jurm",
+    "district_local_name": "جرم",
+    "province_fk_id": 11
+  },
+  {
+    "id": 126,
+    "district_english_name": "Kuran Wa Munjan",
+    "district_local_name": "کرن و منجان",
+    "province_fk_id": 11
+  },
+  {
+    "id": 127,
+    "district_english_name": "Zebak",
+    "district_local_name": "زیباک",
+    "province_fk_id": 11
+  },
+  {
+    "id": 128,
+    "district_english_name": "Wakhan",
+    "district_local_name": "واخان",
+    "province_fk_id": 11
+  },
+  {
+    "id": 129,
+    "district_english_name": "Ishkashim",
+    "district_local_name": "اشکاشم",
+    "province_fk_id": 11
+  },
+  {
+    "id": 130,
+    "district_english_name": "Baharak",
+    "district_local_name": "بهارک",
+    "province_fk_id": 11
+  },
+  {
+    "id": 131,
+    "district_english_name": "Shighnan",
+    "district_local_name": "شیغنان",
+    "province_fk_id": 11
+  },
+  {
+    "id": 177,
+    "district_english_name": "Burka",
+    "district_local_name": "بورکه",
+    "province_fk_id": 13
+  },
+  {
+    "id": 178,
+    "district_english_name": "Baghlani Jadid",
+    "district_local_name": "بغلان جدید",
+    "province_fk_id": 13
+  },
+  {
+    "id": 179,
+    "district_english_name": "Dih Salah",
+    "district_local_name": "ده صلاح",
+    "province_fk_id": 13
+  },
+  {
+    "id": 180,
+    "district_english_name": "Farang Wa Gharu",
+    "district_local_name": "فرنگ غارو",
+    "province_fk_id": 13
+  },
+  {
+    "id": 181,
+    "district_english_name": "Guzargahi Nur",
+    "district_local_name": "گذرگاه نور",
+    "province_fk_id": 13
+  },
+  {
+    "id": 182,
+    "district_english_name": "Khwaja Hijran (Jilga Nahrin)",
+    "district_local_name": "خواجه هجران (جیلگا نهرین)",
+    "province_fk_id": 13
+  },
+  {
+    "id": 183,
+    "district_english_name": "Kunduz",
+    "district_local_name": "مرکز کندز- کندز",
+    "province_fk_id": 14
+  },
+  {
+    "id": 184,
+    "district_english_name": "Imam Sahib",
+    "district_local_name": "حضرت امام صاحب",
+    "province_fk_id": 14
+  },
+  {
+    "id": 185,
+    "district_english_name": "Qalay-I-Zal",
+    "district_local_name": "قلعه ذال",
+    "province_fk_id": 14
+  },
+  {
+    "id": 186,
+    "district_english_name": "Chahar Dara",
+    "district_local_name": "چهار دره",
+    "province_fk_id": 14
+  },
+  {
+    "id": 187,
+    "district_english_name": "Aliabad",
+    "district_local_name": "علی آباد",
+    "province_fk_id": 14
+  },
+  {
+    "id": 188,
+    "district_english_name": "Khanabad",
+    "district_local_name": "خان آباد",
+    "province_fk_id": 14
+  },
+  {
+    "id": 189,
+    "district_english_name": "Archi",
+    "district_local_name": "دشت ارچی",
+    "province_fk_id": 14
+  },
+  {
+    "id": 190,
+    "district_english_name": "Aybak",
+    "district_local_name": "مرکز سمنگان - ایبک",
+    "province_fk_id": 15
+  },
+  {
+    "id": 191,
+    "district_english_name": "Hazrati Sultan",
+    "district_local_name": "حضرت سلطان",
+    "province_fk_id": 15
+  },
+  {
+    "id": 192,
+    "district_english_name": "Dara-I-Sufi Bala",
+    "district_local_name": "دره صوف علیا",
+    "province_fk_id": 15
+  },
+  {
+    "id": 193,
+    "district_english_name": "Dara-I-Sufi Payin",
+    "district_local_name": "دره صوف پائی",
+    "province_fk_id": 15
+  },
+  {
+    "id": 194,
+    "district_english_name": "Ruyi Du Ab",
+    "district_local_name": "روی دو آب",
+    "province_fk_id": 15
+  },
+  {
+    "id": 195,
+    "district_english_name": "Khuram Wa Sarbagh",
+    "district_local_name": "خرم و سارباغ",
+    "province_fk_id": 15
+  },
+  {
+    "id": 196,
+    "district_english_name": "Feroz Nakhchir",
+    "district_local_name": "فیروز نخچیر",
+    "province_fk_id": 15
+  },
+  {
+    "id": 197,
+    "district_english_name": "Mazari Sharif",
+    "district_local_name": "مرکز بلخ - مزارشریف",
+    "province_fk_id": 16
+  },
+  {
+    "id": 198,
+    "district_english_name": "Nahri Shahi",
+    "district_local_name": "نهرشاهی",
+    "province_fk_id": 16
+  },
+  {
+    "id": 199,
+    "district_english_name": "Zari",
+    "district_local_name": "زاری",
+    "province_fk_id": 16
+  },
+  {
+    "id": 364,
+    "district_english_name": "Nuristan",
+    "district_local_name": "مرکز نورستان - نورستان",
+    "province_fk_id": 30
+  },
+  {
+    "id": 365,
+    "district_english_name": "Kamdesh",
+    "district_local_name": "کامدیش",
+    "province_fk_id": 30
+  },
+  {
+    "id": 366,
+    "district_english_name": "Waygal",
+    "district_local_name": "وایگل",
+    "province_fk_id": 30
+  },
+  {
+    "id": 367,
+    "district_english_name": "Mandol",
+    "district_local_name": "مندول",
+    "province_fk_id": 30
+  },
+  {
+    "id": 368,
+    "district_english_name": "Bargi Matal",
+    "district_local_name": "برگی متال",
+    "province_fk_id": 30
+  },
+  {
+    "id": 369,
+    "district_english_name": "Wama",
+    "district_local_name": "واما",
+    "province_fk_id": 30
+  },
+  {
+    "id": 370,
+    "district_english_name": "Du Ab",
+    "district_local_name": "دو آب",
+    "province_fk_id": 30
+  },
+  {
+    "id": 371,
+    "district_english_name": "Nurgaram",
+    "district_local_name": "نورگرام",
+    "province_fk_id": 30
+  },
+  {
+    "id": 372,
+    "district_english_name": "Sari pul",
+    "district_local_name": "مرکز سرپل - سرپل",
+    "province_fk_id": 31
+  },
+  {
+    "id": 373,
+    "district_english_name": "Sangcharak",
+    "district_local_name": "سنگ چارک",
+    "province_fk_id": 31
+  },
+  {
+    "id": 374,
+    "district_english_name": "Kohistanat",
+    "district_local_name": "کوهستانات",
+    "province_fk_id": 31
+  },
+  {
+    "id": 375,
+    "district_english_name": "Balkhab",
+    "district_local_name": "بلخاب",
+    "province_fk_id": 31
+  },
+  {
+    "id": 209,
+    "district_english_name": "Kaldar",
+    "district_local_name": "کلدار",
+    "province_fk_id": 16
+  },
+  {
+    "id": 210,
+    "district_english_name": "Khulm",
+    "district_local_name": "خلم",
+    "province_fk_id": 16
+  },
+  {
+    "id": 211,
+    "district_english_name": "Marmul",
+    "district_local_name": "مارمل",
+    "province_fk_id": 16
+  },
+  {
+    "id": 212,
+    "district_english_name": "Shibirghan",
+    "district_local_name": "مرکزجوزجان - شبرغان",
+    "province_fk_id": 17
+  },
+  {
+    "id": 213,
+    "district_english_name": "Khwaja Du Koh",
+    "district_local_name": "خواجه دوکوه",
+    "province_fk_id": 17
+  },
+  {
+    "id": 214,
+    "district_english_name": "Darzab",
+    "district_local_name": "درزاب",
+    "province_fk_id": 17
+  },
+  {
+    "id": 215,
+    "district_english_name": "Mingajik",
+    "district_local_name": "منگجیک",
+    "province_fk_id": 17
+  },
+  {
+    "id": 216,
+    "district_english_name": "Qarqin",
+    "district_local_name": "قرقین",
+    "province_fk_id": 17
+  },
+  {
+    "id": 217,
+    "district_english_name": "Aqcha",
+    "district_local_name": "آقچه",
+    "province_fk_id": 17
+  },
+  {
+    "id": 218,
+    "district_english_name": "Mardyan",
+    "district_local_name": "مردیان",
+    "province_fk_id": 17
+  },
+  {
+    "id": 219,
+    "district_english_name": "Fayzabad",
+    "district_local_name": "فیض آباد",
+    "province_fk_id": 17
+  },
+  {
+    "id": 220,
+    "district_english_name": "Khamyab",
+    "district_local_name": "خمیاب",
+    "province_fk_id": 17
+  },
+  {
+    "id": 221,
+    "district_english_name": "Khaniqa",
+    "district_local_name": "خانقاه",
+    "province_fk_id": 17
+  },
+  {
+    "id": 222,
+    "district_english_name": "Qush Tepa",
+    "district_local_name": "قوش تیپه",
+    "province_fk_id": 17
+  },
+  {
+    "id": 223,
+    "district_english_name": "Maymana",
+    "district_local_name": "مرکز فاریاب - میمنه",
+    "province_fk_id": 18
+  },
+  {
+    "id": 224,
+    "district_english_name": "Pashtun Kot",
+    "district_local_name": "پشتون کوت",
+    "province_fk_id": 18
+  },
+  {
+    "id": 225,
+    "district_english_name": "Almar",
+    "district_local_name": "المار",
+    "province_fk_id": 18
+  },
+  {
+    "id": 226,
+    "district_english_name": "Qaysar",
+    "district_local_name": "قیسار",
+    "province_fk_id": 18
+  },
+  {
+    "id": 227,
+    "district_english_name": "Kohistan",
+    "district_local_name": "کوهستان",
+    "province_fk_id": 18
+  },
+  {
+    "id": 228,
+    "district_english_name": "Bilchiragh",
+    "district_local_name": "بل چراغ",
+    "province_fk_id": 18
+  },
+  {
+    "id": 325,
+    "district_english_name": "Dihrawud",
+    "district_local_name": "دهراود",
+    "province_fk_id": 26
+  },
+  {
+    "id": 326,
+    "district_english_name": "Gizab",
+    "district_local_name": "گیزاب",
+    "province_fk_id": 26
+  },
+  {
+    "id": 327,
+    "district_english_name": "Chaghcharan",
+    "district_local_name": "مرکز غور - چغچران",
+    "province_fk_id": 27
+  },
+  {
+    "id": 328,
+    "district_english_name": "Shahrak",
+    "district_local_name": "شهرک",
+    "province_fk_id": 27
+  },
+  {
+    "id": 329,
+    "district_english_name": "Tulak",
+    "district_local_name": "تولک",
+    "province_fk_id": 27
+  },
+  {
+    "id": 330,
+    "district_english_name": "Saghar",
+    "district_local_name": "ساغر",
+    "province_fk_id": 27
+  },
+  {
+    "id": 331,
+    "district_english_name": "Taywara",
+    "district_local_name": "تیوره",
+    "province_fk_id": 27
+  },
+  {
+    "id": 332,
+    "district_english_name": "Pasaband",
+    "district_local_name": "پسابند",
+    "province_fk_id": 27
+  },
+  {
+    "id": 333,
+    "district_english_name": "Lal Wa Sarjangal",
+    "district_local_name": "لعل و سرجنگل",
+    "province_fk_id": 27
+  },
+  {
+    "id": 334,
+    "district_english_name": "Charsadra",
+    "district_local_name": "چهار صدره",
+    "province_fk_id": 27
+  },
+  {
+    "id": 335,
+    "district_english_name": "Dawlat Yar",
+    "district_local_name": "دولتیار",
+    "province_fk_id": 27
+  },
+  {
+    "id": 336,
+    "district_english_name": "Du Layna",
+    "district_local_name": "دولینه",
+    "province_fk_id": 27
+  },
+  {
+    "id": 337,
+    "district_english_name": "Bamyan",
+    "district_local_name": "مرکز بامیان",
+    "province_fk_id": 28
+  },
+  {
+    "id": 338,
+    "district_english_name": "Shibar",
+    "district_local_name": "شیبر",
+    "province_fk_id": 28
+  },
+  {
+    "id": 339,
+    "district_english_name": "Kahmard",
+    "district_local_name": "کهمرد",
+    "province_fk_id": 28
+  },
+  {
+    "id": 340,
+    "district_english_name": "Yakawlang",
+    "district_local_name": "یکاولنگ",
+    "province_fk_id": 28
+  },
+  {
+    "id": 341,
+    "district_english_name": "Panjab",
+    "district_local_name": "پنجاب",
+    "province_fk_id": 28
+  },
+  {
+    "id": 342,
+    "district_english_name": "Waras",
+    "district_local_name": "ورس",
+    "province_fk_id": 28
+  },
+  {
+    "id": 343,
+    "district_english_name": "Sayghan",
+    "district_local_name": "سیغان",
+    "province_fk_id": 28
+  },
+  {
+    "id": 344,
+    "district_english_name": "Sharan",
+    "district_local_name": "مرکز پکتیکا - شرن",
+    "province_fk_id": 29
+  },
+  {
+    "id": 345,
+    "district_english_name": "Zarghun Shahr",
+    "district_local_name": "زرغون شهر",
+    "province_fk_id": 29
+  },
+  {
+    "id": 346,
+    "district_english_name": "Dila",
+    "district_local_name": "دیله",
+    "province_fk_id": 29
+  },
+  {
+    "id": 347,
+    "district_english_name": "Waza Khwa",
+    "district_local_name": "وازه خواه",
+    "province_fk_id": 29
+  },
+  {
+    "id": 348,
+    "district_english_name": "Wor Mamay",
+    "district_local_name": "ورممی",
+    "province_fk_id": 29
+  },
+  {
+    "id": 349,
+    "district_english_name": "Gomal",
+    "district_local_name": "گومل",
+    "province_fk_id": 29
+  },
+  {
+    "id": 350,
+    "district_english_name": "Omna",
+    "district_local_name": "اومنه",
+    "province_fk_id": 29
+  },
+  {
+    "id": 351,
+    "district_english_name": "Sarobi",
+    "district_local_name": "سروبی",
+    "province_fk_id": 29
+  },
+  {
+    "id": 352,
+    "district_english_name": "Barmal",
+    "district_local_name": "برمل",
+    "province_fk_id": 29
+  },
+  {
+    "id": 353,
+    "district_english_name": "Gayan",
+    "district_local_name": "گیان",
+    "province_fk_id": 29
+  },
+  {
+    "id": 354,
+    "district_english_name": "Urgun",
+    "district_local_name": "ارگن",
+    "province_fk_id": 29
+  },
+  {
+    "id": 356,
+    "district_english_name": "Nika",
+    "district_local_name": "نیکه",
+    "province_fk_id": 29
+  },
+  {
+    "id": 357,
+    "district_english_name": "Sar Hawza",
+    "district_local_name": "سرروضه",
+    "province_fk_id": 29
+  },
+  {
+    "id": 358,
+    "district_english_name": "Mata Khan",
+    "district_local_name": "متا خان",
+    "province_fk_id": 29
+  },
+  {
+    "id": 359,
+    "district_english_name": "Jani Khel",
+    "district_local_name": "جانی خیل",
+    "province_fk_id": 29
+  },
+  {
+    "id": 360,
+    "district_english_name": "Turwo",
+    "district_local_name": "تروو",
+    "province_fk_id": 29
+  },
+  {
+    "id": 361,
+    "district_english_name": "Yahya Khel",
+    "district_local_name": "یحیی خیل",
+    "province_fk_id": 29
+  },
+  {
+    "id": 362,
+    "district_english_name": "Yosuf Khel",
+    "district_local_name": "یوسف خیل",
+    "province_fk_id": 29
+  },
+  {
+    "id": 363,
+    "district_english_name": "Charbaran",
+    "district_local_name": "چار باران",
+    "province_fk_id": 29
+  },
+  {
+    "id": 250,
+    "district_english_name": "Karukh",
+    "district_local_name": "کرخ",
+    "province_fk_id": 20
+  },
+  {
+    "id": 251,
+    "district_english_name": "Kushk",
+    "district_local_name": "کشک",
+    "province_fk_id": 20
+  },
+  {
+    "id": 252,
+    "district_english_name": "Gulran",
+    "district_local_name": "گلران",
+    "province_fk_id": 20
+  },
+  {
+    "id": 253,
+    "district_english_name": "Kohsan",
+    "district_local_name": "کهسان",
+    "province_fk_id": 20
+  },
+  {
+    "id": 254,
+    "district_english_name": "Ghoryan",
+    "district_local_name": "غوریان",
+    "province_fk_id": 20
+  },
+  {
+    "id": 255,
+    "district_english_name": "Zinda Jan",
+    "district_local_name": "زنده جان",
+    "province_fk_id": 20
+  },
+  {
+    "id": 256,
+    "district_english_name": "Adraskan",
+    "district_local_name": "ادرسکن",
+    "province_fk_id": 20
+  },
+  {
+    "id": 257,
+    "district_english_name": "Obe",
+    "district_local_name": "اوبه",
+    "province_fk_id": 20
+  },
+  {
+    "id": 258,
+    "district_english_name": "Farsi",
+    "district_local_name": "فرسی",
+    "province_fk_id": 20
+  },
+  {
+    "id": 259,
+    "district_english_name": "Shindand",
+    "district_local_name": "شیندند",
+    "province_fk_id": 20
+  },
+  {
+    "id": 260,
+    "district_english_name": "Chishti Sharif",
+    "district_local_name": "چشت شریف",
+    "province_fk_id": 20
+  },
+  {
+    "id": 261,
+    "district_english_name": "Kushki Kuhna",
+    "district_local_name": "کشک کهنه",
+    "province_fk_id": 20
+  },
+  {
+    "id": 262,
+    "district_english_name": "Farah",
+    "district_local_name": "مرکز فراه - فراه",
+    "province_fk_id": 21
+  },
+  {
+    "id": 263,
+    "district_english_name": "Bakwa",
+    "district_local_name": "بکواه",
+    "province_fk_id": 21
+  },
+  {
+    "id": 264,
+    "district_english_name": "Gulistan",
+    "district_local_name": "گلستان",
+    "province_fk_id": 21
+  },
+  {
+    "id": 265,
+    "district_english_name": "Pur Chaman",
+    "district_local_name": "پرچمن",
+    "province_fk_id": 21
+  },
+  {
+    "id": 266,
+    "district_english_name": "Bala Buluk",
+    "district_local_name": "بالا بلوک",
+    "province_fk_id": 21
+  },
+  {
+    "id": 267,
+    "district_english_name": "Khaki Safed",
+    "district_local_name": "خاک سفید",
+    "province_fk_id": 21
+  },
+  {
+    "id": 268,
+    "district_english_name": "Anar Dara",
+    "district_local_name": "انار دره",
+    "province_fk_id": 21
+  },
+  {
+    "id": 269,
+    "district_english_name": "Qala-I-Kah",
+    "district_local_name": "قلعه کاه",
+    "province_fk_id": 21
+  },
+  {
+    "id": 270,
+    "district_english_name": "Lash Wa Juwayn",
+    "district_local_name": "لاش و جوین",
+    "province_fk_id": 21
+  },
+  {
+    "id": 271,
+    "district_english_name": "Shib Koh",
+    "district_local_name": "شیب کوه",
+    "province_fk_id": 21
+  },
+  {
+    "id": 272,
+    "district_english_name": "Pusht Rod",
+    "district_local_name": "پشت رود",
+    "province_fk_id": 21
+  },
+  {
+    "id": 273,
+    "district_english_name": "Zaranj",
+    "district_local_name": "مرکز نیمروز - زرنج",
+    "province_fk_id": 22
+  },
+  {
+    "id": 274,
+    "district_english_name": "Kang",
+    "district_local_name": "گنک",
+    "province_fk_id": 22
+  },
+  {
+    "id": 275,
+    "district_english_name": "Chahar Burjak",
+    "district_local_name": "چاربرجک",
+    "province_fk_id": 22
+  },
+  {
+    "id": 276,
+    "district_english_name": "Chakhansur",
+    "district_local_name": "چخانسور",
+    "province_fk_id": 22
+  },
+  {
+    "id": 277,
+    "district_english_name": "Khash Rod",
+    "district_local_name": "خاشرود",
+    "province_fk_id": 22
+  },
+  {
+    "id": 278,
+    "district_english_name": "Lashkar Gah",
+    "district_local_name": "مرکز هلمند - لشکرگاه",
+    "province_fk_id": 23
+  },
+  {
+    "id": 279,
+    "district_english_name": "Nahri Sarraj",
+    "district_local_name": "نهرسراج",
+    "province_fk_id": 23
+  },
+  {
+    "id": 280,
+    "district_english_name": "Kajaki",
+    "district_local_name": "کجکی",
+    "province_fk_id": 23
+  }
+]
